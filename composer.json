@@ -1,13 +1,13 @@
 {
-    "name": "tencentcloud/tencentcloud-sdk-php",
+    "name": "niubi/niubi-sdk-php",
     "description": "TencentCloudApi php sdk",
     "type": "library",
-    "homepage": "https://github.com/TencentCloud/tencentcloud-sdk-php",
+    "homepage": "https://github.com/ximitc/niubi-php-sdk",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "coolli",
-            "email": "tencentcloudapi@tencent.com",
+            "name": "test",
+            "email": "test@tencent.com",
             "homepage": "https://cloud.tencent.com/document/sdk/PHP",
             "role": "Developer"
         }
